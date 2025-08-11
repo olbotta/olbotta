@@ -16,4 +16,4 @@ You can find many of my projects here and also at my [gitlab](https://gitlab.com
 - 🧪 [JUCE Audio Processors Testing with CATCH2](https://gitlab.com/olbotta/audio-testing)
 
 
-🌐 [olbotta.gitlab.com](https://olbotta.gitlab.com)
+🌐 [olbotta.gitlab.io](https://olbotta.gitlab.io)
