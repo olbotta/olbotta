@@ -7,7 +7,7 @@ Graduate @ UNIMI in Informatics and Sound and music computing.
 - ⛰️ Mountaineering
 
 You can find many of my projects here and also at my [gitlab](https://gitlab.com/olbotta)
-- 👓 [XR software for live performances of spatialized music](https://gitlab.com/space-osc/) (master thesis)  |  Unity, C#, Meta quest 3.
+- 👓 [XR software for live performances of spatialized music](https://gitlab.com/space-osc/) (master thesis)  |  Unity, C#, Meta quest 3, Pure Data, OSC.
 - 🎛️ [DJ software for people affedted by tetraplegia](https://github.com/LIMUNIMI/DJeye) (bachelor thesis)  |  JUCE, C++, Cmake, Tobii eye tracker.
 - 🥁 [DIY finger-drumming and mixing controller](https://peertube.uno/w/ou4u12PaVMLzUKqUt8aqAJ)  |  UWP, C#, Arduino.
 - 🎘 [Arduino theremin](https://gitlab.com/olbotta/theremarduino/)  |  Arduino, Python (with Pyo).
