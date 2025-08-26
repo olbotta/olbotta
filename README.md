@@ -1,11 +1,13 @@
 # Fabio Bottarelli
-Graduate @ UNIMI in Informatics and Sound and music computing.
+M.Sc. @ UNIMI in Informatics and Sound and music computing.
 
-### What i love
+### Some of my interests
 - 🎛️ Interfaces for musical expression
-- 💾 FOSS software
-- ⛰️ Mountaineering
+- 🎲 Playing tabletop games
+- 💾 Free and Open Source software
+- ⛰️ Rock climbing and Mountaineering
 
+### Some of my projects
 You can find many of my projects here and also at my [gitlab](https://gitlab.com/olbotta)
 - 👓 [XR software for live performances of spatialized music](https://gitlab.com/space-osc/) (master thesis)  |  Unity, C#, Meta quest 3, Pure Data, OSC.
 - 🎛️ [DJ software for people affedted by tetraplegia](https://github.com/LIMUNIMI/DJeye) (bachelor thesis)  |  JUCE, C++, Cmake, Tobii eye tracker.
